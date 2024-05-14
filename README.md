@@ -1,10 +1,10 @@
-# Web Starter
+# typography only for Ford GT 40
 
-> Computers are dumb. Humans make them smart.
+The Ford GT40 is a high-performance endurance racing car designed and built by the Ford Motor Company. It grew out of the "Ford GT" (for Grand Touring) project, an effort to compete in European long-distance sports car races, against Ferrari, who had won the prestigious 24 Hours of Le Mans race from 1960 to 1965. Ford succeeded with the GT40, winning the 1966 through 1969 races.
 
-Starter (boilerplate) for all future projects.
+> a web project to help experiment with css type
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## css concepts
+* typography
+* box model
+* css variables
